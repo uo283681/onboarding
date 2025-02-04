@@ -1,0 +1,12 @@
+# Node.js (Angular)
+frontend/node_modules/
+frontend/dist/
+
+# Java (Maven/Gradle)
+backend/target/
+backend/.mvn/
+backend/.idea/
+
+# General
+.DS_Store
+*.log
